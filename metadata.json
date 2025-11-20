@@ -1,0 +1,7 @@
+{
+  "name": "Innerer Antreiber Coach",
+  "description": "Professioneller Test der inneren Antreiber (50 Fragen) mit KI-gestütztem Audio-Coaching zur Reflexion.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
